@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-bounce-keys"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS bounce-keys component - localization"
+
+[lib]
+name = "bounce_keys"
+path = "src/lib.rs"

@@ -3,7 +3,7 @@ name = "SigmaOS-bounce-keys"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "bounce-keys component"
+description = "Bounce Keys"
 upstream = []
 
 [contract]
